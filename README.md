@@ -1,2 +1,1 @@
-# OSU
-School Work
+# C++ School Work
